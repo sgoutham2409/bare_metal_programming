@@ -1,0 +1,10 @@
+# ignore all object files 
+*.o
+
+# ignore all executable files
+*.elf
+*.map
+
+# ignore all log files
+led_log
+main_log
